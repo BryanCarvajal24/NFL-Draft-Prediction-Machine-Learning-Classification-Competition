@@ -23,6 +23,9 @@ Predict whether a player will be selected in the NFL Draft using physical measur
 - NumPy
 - Scikit-learn
 - XGBoost
+- Random Forest
+- CatBoost
+- LightGBM
 - Matplotlib
 - Jupyter Notebook
 
